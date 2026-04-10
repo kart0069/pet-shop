@@ -1,2 +1,1 @@
-# pet-shop
-pet lovers point 
+# pet lovers point 
